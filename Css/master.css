@@ -70,7 +70,7 @@ html {
         width: 1170px;
     }
 }
-
+/* Start Header */
 .header {
     padding: 20px;
 }
@@ -166,8 +166,8 @@ html {
 }
 
 
-/* Header */
-
+/* end Header */
+/* Start landding */
 .landding {
     background-image: url(../images/landding.jpg);
     background-size: cover;
@@ -193,8 +193,8 @@ html {
 }
 
 
-/* Landding */
-
+/* End Landding */
+/* Start Features */
 .features {
     padding-top: var(--sectionpadd);
     padding-bottom: var(--sectionpadd);
@@ -306,7 +306,7 @@ html {
 
 
 /* End Services */
-
+/* Start portofolio */
 .portofolio {
     padding-top: var(--sectionpadd);
     padding-bottom: var(--sectionpadd);
