@@ -372,6 +372,7 @@ html {
     width: 250px;
     height: 375px;
     margin-right: 30px;
+    margin-bottom:30px;
 }
 
 @media (max-width:991px) {
